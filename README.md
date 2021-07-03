@@ -1,5 +1,4 @@
-# WildWav - Bird Sound Identifier
-[Click here to go to the website](https://wildwav.herokuapp.com/ "WildWav.herokuapp.com")
+# Kalasvana - Bird voice Identification
 
 Ever heard distinct bird sounds in the wild or around you and wondered which bird it is? WildWav is developed precisely to identify our flappy friend!
 
