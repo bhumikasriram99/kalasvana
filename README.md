@@ -115,9 +115,6 @@ We then moved to neural netwrork and built a [MLP Classifier](https://en.wikiped
 
 <p align="center"><img src="https://lh3.googleusercontent.com/v1-P76upQ1sn451s6nyyhuOXmnGaOcw2ECDKV4rIf4D-e4FUtzO3LTvCZS2VkbeS8ChJNYJAtmONL0sr4bEcDfTiYhPVOUrt7JTVf2ozBND81MeIoZYAyD_LCcWHkQDaoErOJ1QsTg=w2400" width="500" height="167%"></p>
 
-## Deployment
-
-Deployment was done on [Heroku](https://www.heroku.com/) with the help of [Flask API](https://www.flaskapi.org/). The recorder interface was obtained using this [repo](https://github.com/danijel3/audio_gui "Audio GUI")
 
 ## Prediction
 
